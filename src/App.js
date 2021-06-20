@@ -6,6 +6,7 @@ import Resume from "./pages/resume"
 import Contact from "./pages/contactme"
 function App() {
   return (
+    <div>
     <Router>
       <Switch>
         <Route exact path="/">
@@ -26,6 +27,7 @@ function App() {
         </Route>
       </Switch>
     </Router>
+    </div>
   );
 }
 
