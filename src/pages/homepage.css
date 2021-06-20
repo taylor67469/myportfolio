@@ -1,6 +1,10 @@
 *{
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
+}
+.coder{
+    margin-left: 40px;
 }
 header{
     width: 100%;
@@ -36,25 +40,132 @@ h2{
     color: white;
     border-bottom-style: double ;
 }
-img{
-    margin-top: 200px;
+.myPhoto{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 95px;
     border-style: solid;
     border-color: white;
     border-width: 4px;
 }
-p{
-    /* border-style: solid;
-    border-color: white;
-    border-width:thick; */
-    margin-left: 500px;
-    margin-top: -300px;
+section{
     color: white;
     font-size: 25px;
     width: fit-content;
     text-align: left;
+    background-color: lightblue;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
 }
-/* .myCont{
-    width: fit-content;
-    height: fit-content;
-    background-color: black
-} */
+figure{
+    display: inline-block;
+    
+}
+.proj{
+    border-style: solid;
+    border-color: black;
+    border-width: 4px;
+}
+figcaption{
+    color: white;
+    border-style: solid;
+    border-color: black;    
+    border-width: 2px;
+    background-color: lightblue;
+}
+.res{
+    border-style: solid;
+    border-color: black;    
+    border-width: 2px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 95px;
+    border-style: solid;
+    border-color: white;
+    border-width: 4px;
+}
+.myUL{
+    text-align: center;
+    color: white;
+    display: inline;
+}
+.myList{
+    color: white;
+    font-size: 40px;
+}
+@media screen and (max-width: 1106px) {
+    h1{
+      font-size: 60px;
+    }
+  }
+  @media screen and (max-width: 958px) {
+    h1{
+      font-size: 50px;
+    }
+  }
+  @media screen and (max-width: 589px) {
+    h1{
+      font-size: 40px;
+    }
+    .proj{
+        width: 400px;
+        height:400px
+    }
+  }
+  @media screen and (max-width: 400px) {
+    .navtext{
+      font-size: 12px;
+    }
+    .proj{
+        width: 250px;
+        height:250px
+    }
+  }
+  @media screen and (max-width: 326px) {
+    .navtext{
+      font-size: 8px;
+    }
+    h1{
+        font-size:30px;
+    }
+  }
+  @media screen and (max-width: 648px) {
+    .myPhoto{
+        width: 250px;
+        height: 250px;
+    }
+    section{
+        font-size: 20px;
+    }
+  }
+  @media screen and (max-width: 700px) {
+    .res{
+        width: 500px;
+        height: 500px;
+    }
+  }
+  @media screen and (max-width: 500px) {
+    .res{
+        width: 250px;
+        height: 250px;
+    }
+  }
+  @media screen and (max-width: 730px) {
+    .myList{
+        font-size:30px;
+    }
+  }
+  @media screen and (max-width: 535px) {
+    .myList{
+        font-size:25px;
+    }
+  }
+  @media screen and (max-width: 459px) {
+    .myList{
+        font-size:15px;
+    }
+  }
+  
