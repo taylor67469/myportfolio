@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.68550dd9.chunk.css",
-    "main.js": "/myportfolio/static/js/main.58f5be4f.chunk.js",
-    "main.js.map": "/myportfolio/static/js/main.58f5be4f.chunk.js.map",
+    "main.js": "/myportfolio/static/js/main.91425a22.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.91425a22.chunk.js.map",
     "runtime-main.js": "/myportfolio/static/js/runtime-main.45b018db.js",
     "runtime-main.js.map": "/myportfolio/static/js/runtime-main.45b018db.js.map",
     "static/js/2.05a4082c.chunk.js": "/myportfolio/static/js/2.05a4082c.chunk.js",
@@ -15,6 +15,7 @@
     "static/media/Screenshot (21).6278d9f7.png": "/myportfolio/static/media/Screenshot (21).6278d9f7.png",
     "static/media/chadchat.24ede008.png": "/myportfolio/static/media/chadchat.24ede008.png",
     "static/media/expenseimg.fa4c9161.png": "/myportfolio/static/media/expenseimg.fa4c9161.png",
+    "static/media/linkedinphoto.841335f8.jpg": "/myportfolio/static/media/linkedinphoto.841335f8.jpg",
     "static/media/myphoto.7f1c18d1.jpg": "/myportfolio/static/media/myphoto.7f1c18d1.jpg",
     "static/media/noteTaker.d633f874.png": "/myportfolio/static/media/noteTaker.d633f874.png",
     "static/media/resumepg1.b2ed0b06.png": "/myportfolio/static/media/resumepg1.b2ed0b06.png",
@@ -26,6 +27,6 @@
     "static/js/runtime-main.45b018db.js",
     "static/js/2.05a4082c.chunk.js",
     "static/css/main.68550dd9.chunk.css",
-    "static/js/main.58f5be4f.chunk.js"
+    "static/js/main.91425a22.chunk.js"
   ]
 }
